@@ -1,0 +1,15 @@
+@import url(/static/css/main.css);
+body{
+    position: fixed;
+    background-color: rgb(75, 75, 75);
+    left: 10%;
+    right: 10%;
+    top: 0;
+    bottom: 0px;
+    margin: 0;
+}
+p {
+    white-space: normal; 
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
