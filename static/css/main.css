@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(/static/images/Background.jpg);
+    background-image: url(static/images/Background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
